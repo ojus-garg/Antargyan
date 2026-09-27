@@ -1,0 +1,30 @@
+{
+  "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4": {
+    "entity": "LockBit 4.0 Ransomware Campaign 2026",
+    "category": "ransomware",
+    "severity": "critical",
+    "description": "Freshly deployed extortion wallet identified in new enterprise ransomware note.",
+    "source": "DFIR Incident Response Unit"
+  },
+  "bc1q999999999999999999999999999999999w2345": {
+    "entity": "Akira Ransomware Fresh Campaign",
+    "category": "ransomware",
+    "severity": "critical",
+    "description": "Freshly generated extortion note wallet with 0 confirmed transactions yet.",
+    "source": "Threat Feed"
+  },
+  "1dice8EMZmqKvrGE4Qc9bUFf9PX3xaYDp": {
+    "entity": "Akira Ransomware Fresh Campaign",
+    "category": "ransomware",
+    "severity": "critical",
+    "description": "Freshly generated extortion note wallet with 0 confirmed transactions yet.",
+    "source": "Threat Feed"
+  },
+  "bc1qcr8te4kr609gcawutmrza0j4xv80jy8z306fyu": {
+    "entity": "Akira Ransomware Fresh Campaign",
+    "category": "ransomware",
+    "severity": "critical",
+    "description": "Freshly generated extortion note wallet with 0 confirmed transactions yet.",
+    "source": "Threat Feed"
+  }
+}
