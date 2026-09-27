@@ -76,7 +76,7 @@ graphs/                  # Generated transaction graph visualizations
 - Nakul Vikas Dhoot
 - Akshit Joglekar
 
-**Mentor:** Dr. Balkrishna Patil
+**Mentor:** Dr. Amol Kamble
 
 ## Disclaimer
 
